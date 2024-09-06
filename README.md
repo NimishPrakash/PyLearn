@@ -1,3 +1,3 @@
 # PyLearn
 
-Sudoku.py - Normal Sudoku solve using Backtracking
+sudoku.py - Normal Sudoku solve using Backtracking
